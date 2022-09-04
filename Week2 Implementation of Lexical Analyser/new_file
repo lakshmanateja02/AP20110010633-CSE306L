@@ -1,0 +1,36 @@
+keyword:	int
+identifier:	main
+delimiter:	(
+delimiter:	)
+delimiter:	{
+keyword:	int
+identifier:	a
+delimiter:	,
+identifier:	b
+delimiter:	;
+identifier:	printf
+delimiter:	(
+delimiter:	"
+identifier:	Sum
+identifier:	of
+identifier:	two
+identifier:	numbers
+:	
+delimiter:	"
+delimiter:	)
+delimiter:	;
+identifier:	printf
+delimiter:	(
+delimiter:	"
+format specifier:	%d
+delimiter:	"
+delimiter:	,
+identifier:	a
+operator:	+
+identifier:	b
+delimiter:	)
+delimiter:	;
+identifier:	return
+number:	0
+delimiter:	;
+delimiter:	}
