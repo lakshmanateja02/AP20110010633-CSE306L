@@ -1,0 +1,142 @@
+ 
+ int is keyword
+
+  is the arthematic operator
+
+ main is identifier
+ ( is delimiter
+ ) is delimiter
+ { is delimiter
+  is the arthematic operator
+
+  is the arthematic operator
+
+  is the arthematic operator
+
+  is the arthematic operator
+
+  is the arthematic operator
+
+ printf is identifier
+ ( is delimiter
+ " is delimiter
+ Hello is identifier
+  is the arthematic operator
+
+ world is identifier
+ " is delimiter
+ ) is delimiter
+ ; is delimiter
+  is the arthematic operator
+
+  is the arthematic operator
+
+  is the arthematic operator
+
+  is the arthematic operator
+
+  is the arthematic operator
+ 
+ int is keyword
+
+  is the arthematic operator
+
+ a is identifier
+ , is delimiter
+ b is identifier
+ ; is delimiter
+  is the arthematic operator
+
+  is the arthematic operator
+
+  is the arthematic operator
+
+  is the arthematic operator
+
+  is the arthematic operator
+
+ scanf is identifier
+ ( is delimiter
+ " is delimiter
+%d is a format specifier
+
+  is the arthematic operator
+
+%d is a format specifier
+
+ " is delimiter
+ , is delimiter
+ & is delimiter
+ a is identifier
+ , is delimiter
+ & is delimiter
+ b is identifier
+ ) is delimiter
+ ; is delimiter
+  is the arthematic operator
+
+  is the arthematic operator
+
+  is the arthematic operator
+
+  is the arthematic operator
+
+  is the arthematic operator
+
+ printf is identifier
+ ( is delimiter
+ " is delimiter
+ Addition is identifier
+  is the arthematic operator
+
+ of is identifier
+  is the arthematic operator
+
+ two is identifier
+  is the arthematic operator
+
+ numbers is identifier
+ : is delimiter
+  is the arthematic operator
+
+%d is a format specifier
+
+ " is delimiter
+ , is delimiter
+ a is identifier
++ is the arthematic operator
+
+ b is identifier
+ ) is delimiter
+ ; is delimiter
+  is the arthematic operator
+
+  is the arthematic operator
+
+  is the arthematic operator
+
+  is the arthematic operator
+
+  is the arthematic operator
+
+ return is identifier
+  is the arthematic operator
+
+ 0 is digit
+ ; is delimiter
+ } is delimiter
+  is the arthematic operator
+
+12 is the no of identifiers
+main
+printf
+Hello
+world
+a
+b
+scanf
+Addition
+of
+two
+
+return
