@@ -1,0 +1,110 @@
+keyword:	dig
+identifier:	a
+relational_operator:	=
+number:	2
+delimiter:	$
+keyword:	if
+delimiter:	[
+identifier:	a
+relational_operator:	==
+relational_operator:	=
+number:	2
+delimiter:	]
+keyword:	then
+identifier:	show
+delimiter:	(
+identifier:	a
+|	
+”	
+identifier:	is
+identifier:	shown
+.	
+”	
+delimiter:	)
+delimiter:	$
+keyword:	otherwise
+delimiter:	,
+identifier:	show
+delimiter:	(
+identifier:	a
+|	
+”	
+identifier:	is
+identifier:	not
+identifier:	shown
+”	
+delimiter:	)
+delimiter:	$
+keyword:	dig
+identifier:	i
+relational_operator:	=
+number:	0
+delimiter:	$
+keyword:	from
+delimiter:	[
+identifier:	i
+relational_operator:	=
+number:	0
+delimiter:	$
+identifier:	i
+relational_operator:	<=
+relational_operator:	=
+number:	3
+delimiter:	$
+identifier:	i
+operator:	+
+operator:	+
+delimiter:	]
+ 	
+ 	
+ 	
+ 	
+identifier:	show
+delimiter:	(
+identifier:	i
+|	
+delimiter:	"
+identifier:	is
+identifier:	the
+identifier:	number
+.	
+delimiter:	"
+delimiter:	)
+delimiter:	$
+keyword:	dig
+identifier:	i
+relational_operator:	=
+number:	2
+delimiter:	$
+keyword:	upto
+delimiter:	[
+identifier:	i
+relational_operator:	<
+number:	5
+delimiter:	]
+ 	
+ 	
+ 	
+ 	
+identifier:	show
+delimiter:	(
+identifier:	i
+|	
+delimiter:	"
+ 	
+identifier:	is
+identifier:	the
+identifier:	value
+.	
+delimiter:	"
+delimiter:	)
+delimiter:	$
+ 	
+ 	
+ 	
+ 	
+ 	
+identifier:	i
+operator:	+
+operator:	+
+delimiter:	$

@@ -1,0 +1,8 @@
+dig a = 2$
+       if[a==2]
+             then show(a|” is shown.”)$
+        otherwise,
+             show(a|” is not shown”)$
+
+
+
